@@ -40,7 +40,7 @@ Instale a extensão pela loja do seu navegador:
 Clique no link abaixo. O Tampermonkey abrirá a tela de instalação; basta confirmar em **Instalar**.
 
 ```
-https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/legenda-traduzida.user.js
+https://raw.githubusercontent.com/IsaelSantos/Tradutor_video_legendado_Browser/main/legenda-traduzida.user.js
 ```
 
 **Opção B: instalação manual**
